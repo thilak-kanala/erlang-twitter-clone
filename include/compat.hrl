@@ -1,0 +1,4 @@
+-define(HASH(Data), crypto:hash(sha, Data)).
+-define(MAPS_FILTER(Pred, Map), maps:filter(Pred, Map)).
+-define(RAND_UNIFORM(Max), rand:uniform(Max)).
+-define(PARSE_QS(String), uri_string:dissect_query(String)).

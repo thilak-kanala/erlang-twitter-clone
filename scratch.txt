@@ -1,0 +1,10 @@
+[{{"user": 10},{"count": 7},{"rank": 1},{"nTweets": 100}},
+ {{"user": 8},{"count": 4},{"rank": 2},{"nTweets": 50}},
+ {{"user": 3},{"count": 3},{"rank": 3},{"nTweets": 33}},
+ {{"user": 4},{"count": 3},{"rank": 4},{"nTweets": 25}},
+ {{"user": 9},{"count": 3},{"rank": 5},{"nTweets": 20}},
+ {{"user": 1},{"count": 2},{"rank": 6},{"nTweets": 17}},
+ {{"user": 5},{"count": 2},{"rank": 7},{"nTweets": 14}},
+ {{"user": 6},{"count": 2},{"rank": 8},{"nTweets": 13}},
+ {{"user": 7},{"count": 2},{"rank": 9},{"nTweets": 11}},
+ {{"user": 2},{"count": 1},{"rank": 10},{"nTweets": 10}}]
